@@ -7,8 +7,14 @@ cordova android升级 -- 蒲公英分发平台升级
 ```java
 cordova plugin add https://github.com/zhangjianying/cordova-PgyUpdatePlugin.git --variable PGYER_APPID=XXXXXXXXX
 ```
-
-
+## 使用方法
+```javascript
+	PgyUpdatePlugin.updateAppAndListener(function () {
+								alert('准备升级');
+    }, function(){});
+    
+    
+```
 ## 注意
 
 android 6.0以上请在应用进入的时候动态申请权限
