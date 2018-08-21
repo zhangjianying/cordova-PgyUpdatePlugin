@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+        "spec": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+        "type": "directory"
+      },
+      "/home/coolzlay/bdisk/workspace/2017work/happyFarm_App_2017/trunk/HappyFarmApp/node_modules"
+    ]
+  ],
+  "_from": "../../../ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+  "_id": "cordova-PgyUpdatePlugin@0.1.1",
+  "_inCache": true,
+  "_location": "/cordova-PgyUpdatePlugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+    "spec": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:../../../ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+  "_shasum": "091e1e692591a050ebe82ebca35d512f607bed3b",
+  "_shrinkwrap": null,
+  "_spec": "/home/coolzlay/bdisk/workspace/2017work/ProMarkApp2/trunk/ProMarkApp/plugins/cordova-PgyUpdatePlugin",
+  "_where": "/home/coolzlay/bdisk/workspace/2017work/happyFarm_App_2017/trunk/HappyFarmApp/node_modules",
+  "author": {
+    "name": "Didier Baquier"
+  },
+  "bugs": {
+    "url": "https://github.com/cordova-sms/cordova-sms-plugin/issues"
+  },
+  "cordova": {
+    "id": "com.cordova.cordova-PgyUpdatePlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "cordova-PgyUpdatePlugin",
+  "devDependencies": {},
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/cordova-sms/cordova-sms-plugin#readme",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "sms",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-wp8",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-PgyUpdatePlugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordova-sms/cordova-PgyUpdatePlugin.git"
+  },
+  "version": "0.1.1"
+}
