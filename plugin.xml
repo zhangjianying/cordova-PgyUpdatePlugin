@@ -37,12 +37,17 @@
             <uses-permission android:name="android.permission.READ_PHONE_STATE" />
             <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
         </config-file>
-
-        <config-file target="AndroidManifest.xml" parent="/manifest/application">
+		
+	    <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <meta-data
                 android:name="PGYER_APPID"
                 android:value="$PGYER_APPID" >
             </meta-data>
+			
+			<provider
+				android:name="com.pgyersdk.PgyerProvider"
+				android:authorities="${applicationId}.com.pgyer.provider"
+				android:exported="false"/>
         </config-file>
 
         <config-file target="res/xml/config.xml" parent="/*">
