@@ -27,7 +27,7 @@
         <source-file src="src/android/com/zsoftware/update/PgyUpdatePlugin.java" target-dir="src/com/zsoftware/update/" />
 
         <!-- lib SDK -->
-        <source-file src="src/android/lib/pgyer_sdk_3.0.0.jar" target-dir="libs" />
+        <source-file src="src/android/lib/pgyer_sdk_3.0.2.jar" target-dir="libs" />
 
         <!-- permission config -->
         <config-file target="AndroidManifest.xml" parent="/manifest">
